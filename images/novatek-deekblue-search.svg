@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="矩形_1126" data-name="矩形 1126" width="27.034" height="27.658" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="组_4196" data-name="组 4196" transform="translate(3 3)">
+    <rect id="矩形_1127" data-name="矩形 1127" width="28" height="28" transform="translate(-3 -3)" fill="none"/>
+    <g id="组_4187" data-name="组 4187" transform="translate(-2.644 -2.956)">
+      <g id="组_4186" data-name="组 4186" clip-path="url(#clip-path)">
+        <path id="路径_1136" data-name="路径 1136" d="M25.918,27.658a1.118,1.118,0,0,1-.808-.339l-7.147-7.347-.276.192a11.236,11.236,0,0,1-6.27,2.009h-.158A11.309,11.309,0,0,1,0,11.062,11.189,11.189,0,0,1,11.071,0h.174A11.287,11.287,0,0,1,22.481,11.074,10.985,10.985,0,0,1,19.846,18.2l-.235.276,7.114,7.313A1.1,1.1,0,0,1,26.7,27.35a1.131,1.131,0,0,1-.778.307M11.2,2.169a8.982,8.982,0,0,0-8.957,8.9,8.971,8.971,0,0,0,8.842,8.851h.159a9.045,9.045,0,0,0,9-8.843,8.984,8.984,0,0,0-8.957-8.907Z" transform="translate(0 0)" fill="#066ddb"/>
+      </g>
+    </g>
+  </g>
+</svg>
